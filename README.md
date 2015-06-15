@@ -1,0 +1,2 @@
+# FSM
+Simple FSM class
